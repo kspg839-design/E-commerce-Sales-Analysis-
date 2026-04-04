@@ -13,7 +13,7 @@ A comprehensive end-to-end data analysis project on a UK-based online retail dat
 
 - **Source:** [UCI Machine Learning Repository – Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - **Period:** December 2010 – December 2011
-- **Description:** Transactional data from a UK-based non-store online retail company selling gift-ware. Customers include both retail (individual) and wholesale (business) buyers.
+- **Description:** Transactional data from a UK-based non-store online retail company selling gift-ware. Customers include both retail and wholesale business buyers.
 
 ---
 
