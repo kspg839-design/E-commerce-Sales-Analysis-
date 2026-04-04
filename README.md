@@ -42,19 +42,19 @@ A comprehensive end-to-end data analysis project on a UK-based online retail dat
 ## 📈 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](dashboard/executive_overview.png)
+![Executive Overview](Dashboard/Screenshots/Executive_overview.png)
 
 ### Retail Analysis
-![Retail Analysis](dashboard/retail_analysis.png)
+![Retail Analysis](Dashboard/Screenshots/Retail_analysis_page.png)
 
 ### Wholesale Analysis
-![Wholesale Analysis](dashboard/wholesale_analysis.png)
+![Wholesale Analysis](Dashboard/Screenshots/Wholesale_analysis_page.png)
 
 ### Customer Behaviour
-![Customer Behaviour](dashboard/customer_behaviour.png)
+![Customer Behaviour](Dashboard/Screenshots/Customer_behaviour_page.png)
 
 ### Risk Insights
-![Risk Insights](dashboard/risk_insights.png)
+![Risk Insights](Dashboard/Screenshots/Risk_insight_page.png)
 
 ---
 
