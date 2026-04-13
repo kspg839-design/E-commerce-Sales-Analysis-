@@ -47,7 +47,7 @@ A comprehensive end-to-end data analysis project on a UK-based online retail dat
 ![Retail Analysis](Dashboard/Screenshots/retail_analysis.png)
 
 ### Wholesale Analysis
-![Wholesale Analysis](Dashboard/Screenshots/wholesale_analysis.png)
+![Wholesale Analysis](Dashboard/Screenshots/Wholesale_analysis.png)
 
 ### Customer Behaviour
 ![Customer Behaviour](Dashboard/Screenshots/customer_segmentation.png)
